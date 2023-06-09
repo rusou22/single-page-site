@@ -1,6 +1,6 @@
-@charset "utf-8";
-*{
-    box-sizing: border-box;
+@charset "UTF-8";
+* {
+  box-sizing: border-box;
 }
 
 body{
@@ -46,14 +46,14 @@ address {
 }
 
 .header{
-    width:1000px;
-    margin:0 auto;
-    padding:20px 0;
+  width:1000px;
+  margin:0 auto;
+  padding:20px 0;
 }
 
 .logo{
     margin:0;
-    text-align:center;
+    text-align: center;
 }
 
 .main{
@@ -61,7 +61,7 @@ address {
     margin:0 auto;
 }
 
-top{
+.top{
     margin-bottom:20px;
     text-align:center;
 }
@@ -119,10 +119,11 @@ top{
 }
 .photos figcaption{
     font-size: 12px;
+    text-align: left;
 }
 
 .access {
-  width: 600px; /* アクセス全体の横幅 */
+  width: 600px; 
 }
 
 
